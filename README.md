@@ -44,7 +44,7 @@ root (com.example)
 ## Code Formatting and Linting
 ```bash
 ./gradlew ktlintCheck  // 로 틀린부분을 체크받고
-./gradlew ktlintFormat  // 로 자동수정을 할 수 있습니다.
+./gradlew ktlintFormat // 로 자동수정을 할 수 있습니다.
 ```
 
 <br>
